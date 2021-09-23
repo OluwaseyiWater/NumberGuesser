@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632418898 source:c:\users\dell\onedrive\desktop\numberguesser\main.c
+	<stdio.h>
+	<stdlib.h>
+
